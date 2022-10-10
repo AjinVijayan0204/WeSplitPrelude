@@ -13,6 +13,7 @@
 		8721DBC228F45DE80066CDD1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8721DBC128F45DE80066CDD1 /* Preview Assets.xcassets */; };
 		8721DBC428F45DE80066CDD1 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8721DBC328F45DE80066CDD1 /* Persistence.swift */; };
 		8721DBC728F45DE80066CDD1 /* HackingWithSwift.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8721DBC528F45DE80066CDD1 /* HackingWithSwift.xcdatamodeld */; };
+		8721DBCE28F462A90066CDD1 /* Form1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8721DBCD28F462A90066CDD1 /* Form1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		8721DBC128F45DE80066CDD1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8721DBC328F45DE80066CDD1 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		8721DBC628F45DE80066CDD1 /* HackingWithSwift.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = HackingWithSwift.xcdatamodel; sourceTree = "<group>"; };
+		8721DBCD28F462A90066CDD1 /* Form1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Form1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				8721DBC328F45DE80066CDD1 /* Persistence.swift */,
 				8721DBC528F45DE80066CDD1 /* HackingWithSwift.xcdatamodeld */,
 				8721DBC028F45DE80066CDD1 /* Preview Content */,
+				8721DBCD28F462A90066CDD1 /* Form1.swift */,
 			);
 			path = HackingWithSwift;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			files = (
 				8721DBC428F45DE80066CDD1 /* Persistence.swift in Sources */,
 				8721DBBD28F45DE70066CDD1 /* ContentView.swift in Sources */,
+				8721DBCE28F462A90066CDD1 /* Form1.swift in Sources */,
 				8721DBBB28F45DE70066CDD1 /* HackingWithSwiftApp.swift in Sources */,
 				8721DBC728F45DE80066CDD1 /* HackingWithSwift.xcdatamodeld in Sources */,
 			);
