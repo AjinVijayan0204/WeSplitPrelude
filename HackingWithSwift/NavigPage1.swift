@@ -18,6 +18,9 @@ struct NavigPage1: View {
                 }
                 
             }.navigationTitle("SwiftUI")
+                .navigationBarTitleDisplayMode(.inline)
+            //changes the title display mode
+            
         }
         
         
