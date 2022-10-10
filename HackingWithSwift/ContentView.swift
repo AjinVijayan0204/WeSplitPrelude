@@ -12,16 +12,32 @@ struct ContentView: View {
     
     var body: some View {
         Form{
-            Text("Hello")
-            Text("Hello")
-            Text("Hello")
-            Text("Hello")
-            Text("Hello")
-            Text("Hello")
-            Text("Hello")
-            Text("Hello")
-            Text("Hello")
-            Text("Hello")
+            Group{
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+            }
+            
+            Group{
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+                Text("Hello")
+            }
+            
         }
         
     }
