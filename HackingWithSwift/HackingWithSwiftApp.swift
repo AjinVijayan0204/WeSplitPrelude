@@ -15,7 +15,8 @@ struct HackingWithSwiftApp: App {
         WindowGroup {
 //            ContentView()
 //                .environment(\.managedObjectContext, persistenceController.container.viewContext)
-            Form1()
+//            Form1()
+            NavigPage1()
         }
     }
 }
