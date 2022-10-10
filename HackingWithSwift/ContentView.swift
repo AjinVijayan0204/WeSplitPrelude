@@ -11,7 +11,19 @@ import CoreData
 struct ContentView: View {
     
     var body: some View {
-        Text("Hello")
+        Form{
+            Text("Hello")
+            Text("Hello")
+            Text("Hello")
+            Text("Hello")
+            Text("Hello")
+            Text("Hello")
+            Text("Hello")
+            Text("Hello")
+            Text("Hello")
+            Text("Hello")
+        }
+        
     }
 }
     
