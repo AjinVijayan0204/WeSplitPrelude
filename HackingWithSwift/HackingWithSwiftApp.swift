@@ -16,7 +16,8 @@ struct HackingWithSwiftApp: App {
 //            ContentView()
 //                .environment(\.managedObjectContext, persistenceController.container.viewContext)
 //            Form1()
-            NavigPage1()
+//            NavigPage1()
+            State1()
         }
     }
 }
